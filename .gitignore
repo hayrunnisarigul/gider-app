@@ -137,3 +137,15 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Firebase credentials
+google-services.json
+GoogleService-Info.plist
+
+# Expo
+.expo/
+.expo-shared/
+
+# Native build folders
+android/
+ios/
